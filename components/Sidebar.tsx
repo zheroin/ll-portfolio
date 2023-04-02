@@ -46,7 +46,7 @@ const Sidebar = () => {
         <a href="#">
           <AiFillLinkedin className="w-8 h-8 cursor-pointer" />
         </a>
-        <a href="https://lambert-lee-git.vercel.com">
+        <a href="https://git-view-kappa.vercel.app/">
           <AiFillGithub className="w-8 h-8 cursor-pointer" />{" "}
         </a>
       </div>
