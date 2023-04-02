@@ -46,7 +46,7 @@ const Sidebar = () => {
         <a href="#">
           <AiFillLinkedin className="w-8 h-8 cursor-pointer" />
         </a>
-        <a href="https://github.com/CleanCodeCreature">
+        <a href="https://lambert-lee-git.vercel.com">
           <AiFillGithub className="w-8 h-8 cursor-pointer" />{" "}
         </a>
       </div>

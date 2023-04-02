@@ -8,7 +8,6 @@ import {
 import ServiceCard from "../components/ServiceCard";
 import { services } from "../data";
 import { Service } from "../types";
-
 const About: NextPage = () => {
   // console.log(services);
 
