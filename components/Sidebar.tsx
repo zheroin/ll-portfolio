@@ -58,7 +58,7 @@ const Sidebar = () => {
       >
         <div className="flex items-center justify-center">
           <GoLocation className="mr-2" />{" "}
-          <span> 525 Route 73 N # 111 Marlton NM US </span>
+          <span> Singapore </span>
         </div>
         <p className="my-2 "> lambertlee410@gmail.com </p>
         <p className="my-2"> 8514961665 / 8640960375 </p>
